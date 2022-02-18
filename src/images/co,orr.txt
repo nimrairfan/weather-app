@@ -1,0 +1,2 @@
+blue color #ABE7F1
+dark color #697281
